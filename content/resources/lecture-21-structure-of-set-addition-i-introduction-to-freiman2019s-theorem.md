@@ -4,7 +4,7 @@ description: ''
 file: null
 resourcetype: Video
 title: "Lecture 21: Structure of Set Addition I: Introduction to Freiman\u2019s Theorem\
-  \ \t"
+  \  "
 uid: c4fbcecc-d2da-f745-5161-0e6adcd67b87
 video_files:
   archive_url: https://archive.org/download/MIT18.217F19/MIT18_217F19_lec21_300k.mp4

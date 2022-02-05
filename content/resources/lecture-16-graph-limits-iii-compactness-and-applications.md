@@ -3,7 +3,7 @@ content_type: resource
 description: ''
 file: null
 resourcetype: Video
-title: "Lecture 16: Graph Limits III: Compactness and Applications \t"
+title: 'Lecture 16: Graph Limits III: Compactness and Applications  '
 uid: 0031a0d0-91af-8db0-e3f3-25c0a2be7582
 video_files:
   archive_url: https://archive.org/download/MIT18.217F19/MIT18_217F19_lec16_300k.mp4

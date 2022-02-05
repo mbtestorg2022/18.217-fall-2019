@@ -4,7 +4,7 @@ description: ''
 file: null
 resourcetype: Video
 title: "Lecture 24: Structure of Set Addition IV: Proof of Freiman\u2019s Theorem\
-  \ \t"
+  \  "
 uid: e39d9fc6-8aca-8c85-04fb-0b757b9d4afe
 video_files:
   archive_url: https://archive.org/download/MIT18.217F19/MIT18_217F19_lec24_300k.mp4

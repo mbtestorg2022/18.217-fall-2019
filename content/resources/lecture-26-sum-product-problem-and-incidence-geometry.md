@@ -3,7 +3,7 @@ content_type: resource
 description: ''
 file: null
 resourcetype: Video
-title: "Lecture 26: Sum-Product Problem and Incidence Geometry\t"
+title: 'Lecture 26: Sum-Product Problem and Incidence Geometry '
 uid: 041b5e96-b657-71fa-0e0b-4b0a927db8ed
 video_files:
   archive_url: https://archive.org/download/MIT18.217F19/MIT18_217F19_lec26_300k.mp4

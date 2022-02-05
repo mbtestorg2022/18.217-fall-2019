@@ -4,7 +4,7 @@ description: ''
 file: null
 resourcetype: Video
 title: "Lecture 19: Roth\u2019s Theorem II: Fourier Analytic Proof in the Integers\
-  \ \t"
+  \  "
 uid: d334e849-3200-dbf1-e325-efa9e4af1524
 video_files:
   archive_url: https://archive.org/download/MIT18.217F19/MIT18_217F19_lec19_300k.mp4
