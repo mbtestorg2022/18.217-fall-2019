@@ -3,7 +3,7 @@ content_type: resource
 description: ''
 file: null
 resourcetype: Video
-title: "Lecture 17: Graph Limits IV: Inequalities between Subgraph Densities \t"
+title: 'Lecture 17: Graph Limits IV: Inequalities between Subgraph Densities  '
 uid: 9b03e8fc-96b4-90be-cb0c-e26fb3066090
 video_files:
   archive_url: https://archive.org/download/MIT18.217F19/MIT18_217F19_lec17_300k.mp4

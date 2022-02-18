@@ -3,7 +3,7 @@ content_type: resource
 description: ''
 file: null
 resourcetype: Video
-title: "Lecture 13: Sparse Regularity and the Green-Tao Theorem \t"
+title: 'Lecture 13: Sparse Regularity and the Green-Tao Theorem  '
 uid: 0c5c9dcb-7e95-bd08-29be-4ca9bbf90d89
 video_files:
   archive_url: https://archive.org/download/MIT18.217F19/MIT18_217F19_lec13_300k.mp4

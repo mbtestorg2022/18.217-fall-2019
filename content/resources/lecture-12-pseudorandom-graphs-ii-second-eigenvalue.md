@@ -3,7 +3,7 @@ content_type: resource
 description: ''
 file: null
 resourcetype: Video
-title: "Lecture 12: Pseudorandom Graphs II: Second Eigenvalue \t"
+title: 'Lecture 12: Pseudorandom Graphs II: Second Eigenvalue  '
 uid: 2ad01c27-7aaf-d1f2-26b8-b3fafe4a62ed
 video_files:
   archive_url: https://archive.org/download/MIT18.217F19/MIT18_217F19_lec12_300k.mp4

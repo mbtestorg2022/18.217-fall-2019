@@ -3,7 +3,7 @@ content_type: resource
 description: ''
 file: null
 resourcetype: Video
-title: "Lecture 14: Graph Limits I: Introduction \t"
+title: 'Lecture 14: Graph Limits I: Introduction  '
 uid: e4fc7771-fc71-a9b7-3450-9d1e25084236
 video_files:
   archive_url: https://archive.org/download/MIT18.217F19/MIT18_217F19_lec14_300k.mp4

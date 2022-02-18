@@ -3,8 +3,8 @@ content_type: resource
 description: ''
 file: null
 resourcetype: Video
-title: "Lecture 22: Structure of Set Addition II: Groups of Bounded Exponent and Modeling\
-  \ Lemma\t"
+title: 'Lecture 22: Structure of Set Addition II: Groups of Bounded Exponent and Modeling
+  Lemma '
 uid: e04cbef2-ab7a-ab5c-3777-be80a9969ed9
 video_files:
   archive_url: https://archive.org/download/MIT18.217F19/MIT18_217F19_lec22_300k.mp4

@@ -4,7 +4,7 @@ description: ''
 file: null
 resourcetype: Video
 title: "Lecture 18: Roth\u2019s Theorem I: Fourier Analytic Proof over Finite Field\
-  \ \t"
+  \  "
 uid: b6005bf7-bcb8-7c4e-c8c8-c0b1c9014989
 video_files:
   archive_url: https://archive.org/download/MIT18.217F19/MIT18_217F19_lec18_300k.mp4

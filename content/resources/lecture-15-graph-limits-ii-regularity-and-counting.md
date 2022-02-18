@@ -3,7 +3,7 @@ content_type: resource
 description: ''
 file: null
 resourcetype: Video
-title: "Lecture 15: Graph Limits II: Regularity and Counting \t"
+title: 'Lecture 15: Graph Limits II: Regularity and Counting  '
 uid: d72a3b46-3b18-9e73-cc90-80898262bc82
 video_files:
   archive_url: https://archive.org/download/MIT18.217F19/MIT18_217F19_lec15_300k.mp4
